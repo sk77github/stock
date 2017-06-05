@@ -25,7 +25,7 @@ volume_price.py
 roe > 5
 eps > 0.15
 gross_profit_rate > 9
-stock_trade.mbrg > 5
-stock_trade.nprg > 5
+mbrg > 5
+nprg > 5
 按市值从小到大排序。
 
